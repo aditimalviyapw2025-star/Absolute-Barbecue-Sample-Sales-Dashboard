@@ -16,4 +16,5 @@ An interactive Power BI dashboard analysing sample sales of Absolute Barbecue.
 - Power BI (data modelling, DAX, interactive dashboard design)
 
 ## Dashboard Preview
-![Dashboard Preview](Absolute Barbecue.dashboard.ss.jpeg)
+![Dashboard Preview](dashboard_preview.jpeg)
+
